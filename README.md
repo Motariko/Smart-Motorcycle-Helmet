@@ -27,4 +27,4 @@ The system is built using ESP32 and ESP8266 microcontrollers programmed in C++ w
 
 The repository is organized into specific directories for the Helmet Node and the Tail Node to maintain clear separation of concerns. To deploy the system, users must rename the provided configuration template to a standard header file and input their specific hardware MAC addresses and server endpoints. While the server-side API is not included in this repository, the system is designed to be compatible with any backend capable of receiving standard JSON payloads.
 
-Developed by Isara Phetsila, Computer Engineering Student at Ramkhamhaeng University.
+Developed by Aitsara Phetsila, Computer Engineering Student at Ramkhamhaeng University.
